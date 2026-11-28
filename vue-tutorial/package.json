@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "mock-api": "json-server --watch /db/db.json --port 3000" 
   },
   "dependencies": {
     "axios": "^1.21.1",
     "core-js": "^3.8.3",
+    "json-server": "^1.0.0-beta.15",
     "vue": "^2.7.16",
     "vue-router": "^3.5.1",
     "vuetify": "^2.6.0"

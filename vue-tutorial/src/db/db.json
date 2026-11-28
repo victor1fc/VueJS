@@ -1,0 +1,55 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "titulo": "Mercado IR",
+      "concluido": false
+    },
+    {
+      "id": "2",
+      "titulo": "Mercado Comprar Pão",
+      "concluido": false
+    },
+    {
+      "id": "Levy8FlLm44",
+      "titulo": "asd",
+      "concluido": false
+    },
+    {
+      "id": "fKRt4L_6rt8",
+      "titulo": "asdasd",
+      "concluido": false
+    },
+    {
+      "id": "-Br2hptCMKo",
+      "titulo": "zxczxc",
+      "concluido": false
+    },
+    {
+      "id": "TAqmRya8lDs",
+      "titulo": "zxczxczxc",
+      "concluido": false
+    },
+    {
+      "id": "Ch8zIH4UvKM",
+      "titulo": "zxczxc",
+      "concluido": false
+    },
+    {
+      "id": "jk3tFF_54wM",
+      "titulo": "zxcqaq2e",
+      "concluido": false
+    },
+    {
+      "id": "RY-dZvp17es",
+      "titulo": "z1q23123",
+      "concluido": false
+    },
+    {
+      "id": "KThxrV1dLwg",
+      "titulo": "123",
+      "concluido": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
